@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Zakarya
 
-<!--
-**Zekas14/Zekas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer (.NET & Flutter)
 
-Here are some ideas to get you started:
+- 🔭 Currently working on **Egypt ConnectChain Pro**
+- 🌱 Learning **CQRS, Clean Architecture**
+- 💬 Ask me about **ASP.NET Core, Web APIs, Flutter**
+- 🇪🇬 Based in Egypt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Backend:** ASP.NET Core, Node.js
+- **Frontend:** Flutter, Angular
+- **Database:** SQL Server, MongoDB
+- **Tools:** Git, Docker, Firebase, Stripe
+
+---
+
+## 📌 Featured Projects
+- 🚚 **Egypt ConnectChain Pro** – B2B Supply Chain System
+- 🏨 **Hotel Management System** – Payments & Booking
+- 💰 **Taswiya** – Tax Assistant for Egyptian Startups
+
+---
+
+## 📫 Contact Me
+- LinkedIn: https://linkedin.com/in/username
+- Email: ahmed@email.com
