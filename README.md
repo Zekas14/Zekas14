@@ -30,8 +30,10 @@ architecture and maintainable code.
 
 ## 🛠 Tech Stack
 ### Backend & Core
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,redis)
-
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframework/entityframework-original.svg" width="40" />
+</p>
 - ASP.NET Core, Web APIs, MVC  
 - CQRS, MediatR, Clean Architecture, Vertical Slicing  
 - SignalR, WinForms, IIS  
@@ -40,8 +42,7 @@ architecture and maintainable code.
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb)
 
 ### Frontend
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,ts,angular)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zekas14&show_icons=true&theme=github_dark" />
