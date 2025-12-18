@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Zakarya</h1>
-<h3 align="center">Full-Stack Developer | ASP.NET Core</h3>
+<h3 align="center">Full-Stack Developer | ASP.NET Core</h3><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;ASP.NET+Core+Specialist;CQRS+%7C+Clean+Architecture&center=true&width=500&height=45">
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-zakarya" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/ahmed-zakarya">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="38"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmedzrks123@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="38"/>
   </a>
 </p>
 
